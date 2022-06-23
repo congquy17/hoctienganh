@@ -1,0 +1,10 @@
+:root{
+    --ddd:yellow;
+}
+h1{
+    color:var(--ddd);
+    font-size:50px;
+}
+#cc{
+    color:darkorange;
+}

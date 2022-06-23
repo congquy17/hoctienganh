@@ -1,0 +1,10 @@
+:root{
+    --text-color:blue;
+    --hayzoo-color:red;
+}
+h1{
+    color:var(--text-color);
+}
+p{
+    color:var(--hayzoo-color);
+}
